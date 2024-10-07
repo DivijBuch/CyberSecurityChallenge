@@ -1,3 +1,6 @@
 # CyberSecurityChallenge
-![MatrixTheGIF](https://github.com/user-attachments/assets/2e188a70-77ff-42e3-8ee4-a0fae9e16c11)
-
+#This repository
+This repository is for the code made and used for the CyberSecurityChallenge. 
+##Code in this
+-Highest frequency letter
+![HackerHackerManGIF](https://github.com/user-attachments/assets/b0a142f0-9534-466c-9674-edb12050b614)
